@@ -28,7 +28,7 @@ from sklearn.model_selection import train_test_split
 
 # PLEASE CHANGE FILENAME AS REQUIRED
 
-dataset = pd.read_csv('taskData.csv', header=None, encoding='latin-1' )
+dataset = pd.read_csv('Sentence Completion System/taskData.csv', header=None, encoding='latin-1' )
 
 
 
